@@ -112,3 +112,24 @@ button img {
 button:hover {
   background-color: var(--Very-dark-blue);
 }
+
+@media (min-width: 600px) {
+  .container {
+    display: flex;
+    width: 600px;
+    align-items: center;
+  }
+
+  .mobile-img {
+    display: none;
+  }
+
+  .card-info {
+    width: 500px;
+  }
+
+  .desktop-img {
+    display: block;
+    width: 100%;
+  }
+}
