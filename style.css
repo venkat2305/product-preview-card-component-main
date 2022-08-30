@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Montserrat:wght@500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Montserrat:wght@500;700&display=swap");
 
 :root {
   --Dark-cyan: hsl(158, 36%, 37%);
@@ -35,7 +35,6 @@ body {
   overflow: hidden;
 }
 
-
 .mobile-img {
   width: 100%;
 }
@@ -43,7 +42,6 @@ body {
 .desktop-img {
   display: none;
 }
-
 
 .card-info {
   padding: 20px;
@@ -135,7 +133,4 @@ button:hover {
     display: block;
     width: 100%;
   }
-
-
-  
 }
