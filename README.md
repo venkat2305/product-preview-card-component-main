@@ -12,3 +12,10 @@ use forward slashes not backslash in the path of image tags. if we copy paste re
 # to do
 
 picture tag to change images responsively
+
+# follow these
+You can only use <main> if you don't need the others. The most important thing is elements like <div> shouldn't be direct descendants of <body>.
+images forward slash
+document should have atleast one h1 tag
+html document should have main element
+wirte alt attribute for images
