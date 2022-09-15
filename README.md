@@ -10,7 +10,8 @@ use Semantic HTML markup wherever you can to make app more accessible
 use forward slashes not backslash in the path of image tags. if we copy paste relative path it uses backward slashes.
 
 # to do
-
+responsive images
+srcset
 picture tag to change images responsively
 
 # follow these
