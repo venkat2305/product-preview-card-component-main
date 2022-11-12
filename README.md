@@ -10,6 +10,11 @@
 1. responsive images
 2. srcset
 3. picture tag to change images responsively
+4. The old price needs wrapping in a `del` element
+5. leave the cart icon alt blank
+6. you need to use the picture element
+7. You need to make perfume a paragraph
+8. 
 
 ## follow these
 1. You can only use <main> if you don't need the others. The most important thing is elements like <div> shouldn't be direct descendants of <body>.
